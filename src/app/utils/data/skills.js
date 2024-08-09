@@ -7,6 +7,7 @@ export const skillsData = [
   'Next JS',
   'Tailwind',
   'MongoDB',
+<<<<<<< HEAD
   'MySQL',
   'PostgreSQL',
   'Git',
@@ -26,6 +27,17 @@ export const skillsData = [
 
 
 // AVAILABLE SKILLS
+=======
+  'ViteJS',
+  'MySQL',
+  'Git',
+  'Firebase',
+  'MaterialUI',
+  'Java',
+  'Canva',
+]
+
+>>>>>>> recovery-branch
 
 /* 
   HTML
