@@ -6,63 +6,26 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-<<<<<<< HEAD
-        name: 'AI Powered Financial App',
-        description: "Me and my team built an AI-powered financial mobile application. I have developed API using Express, Typescript, OpenAI, AWS, and MongoDB. Used OTP via AWS SES, Google, and Facebook for the authentication system. Built AI assistants using OpenAI's latest model and trained using our dataset. Voice messages are converted to text using AWS Transcribe. The app fetches data from Google Sheets and generates a PDF term sheet, sent via AWS SES.",
-        tools: ['Express', 'MongoDB', 'OpenAI API', 'AWS SES', 'AWS S3', 'Node Mailer', 'Joi', 'Puppeteer', 'EC2', 'PM2', 'Nginx'],
-        role: 'Backend Developer',
-        code: '',
-        demo: '',
-=======
         name: 'Portfolio',
         description: "My portfolio project, built using the Next.js framework, showcases a modern and appealing design. It includes EmailJS for seamless email communication and a Telegram bot for instant notifications, making the portfolio both visually stunning and highly functional. The layout features interactive cards that display information in a code snippet format, providing a unique and engaging user experience. Leveraging Next.js's server-side rendering and static site generation capabilities, the portfolio ensures fast load times and optimal performance. ",
         tools: ['Next JS', 'React', 'Javacript', 'SCSS', 'Telegram Bot', 'EmailJs', 'Typescript', 'TailwindCSS',"Vercel"],
         role: 'Full Stack Developer',
         code: '',
         demo: 'https://github.com/Krish-Verma-03/portfolio',
->>>>>>> recovery-branch
         image: crefin,
     },
     {
         id: 2,
-<<<<<<< HEAD
-        name: 'Travel Agency App',
-        description: 'I have designed and developed a full-stack web app for 2Expedition, a travel agency in Armenia. I created the UI using NextJS, Typescript, MUI, TailwindCSS, Google Maps, Sun-Editor, and React Slick. The app supports multiple languages and currencies. I developed the API using NestJS, Typescript, MySQL, TypeORM, AWS, and Nodemailer. I deployed the front-end app to AWS Amplify and the back-end app to AWS EC2.',
-        tools: ['NextJS', 'Tailwind CSS', "Google Maps", "NestJS", "TypeScript", "MySQL", "AWS S3", "Sun-Editor", "Gmail Passkey"],
-        role: 'Full Stack Developer',
-        code: '',
-        demo: '',
-=======
         name: 'Music School',
         description: ': Designed and developed a visually captivating website using the Next.js framework, with a strong emphasis on creating an immersive and interactive frontend experience. The project showcases a variety of advanced animations powered by AOS, including 3D card effects that add depth, meteor animations that bring the interface to life, and wavy backgrounds that enhance the overall aesthetic. These elements work together to deliver a seamless and engaging user experience, highlighting attention to detail and a commitment to creating a standout digital platform.',
         tools: ['NextJs','Typescript', 'Aceternity', "Javascript", "TailwindCSS","Vercel"],
         role: 'Developer && Designer',
         code: '',
         demo: 'https://your-music-school.vercel.app/',
->>>>>>> recovery-branch
         image: travel,
     },
     {
         id: 3,
-<<<<<<< HEAD
-        name: 'AI Powered Real Estate',
-        description: 'My team built an AI-based real estate app using Replicate API and OpenAI. We used Express, Typescript, OpenAI, Replicate, Stripe, and Mongoose to develop the API. We utilized NextJS, Formik, TailwindCSS, and other npm libraries for the UI. We have trained multiple AI assistants using the latest GPT model and integrated Replicate API for image processing. We added role-based auth, subscription plans, Cron job scheduling, and payment integration with Stripe.',
-        tools: ['React', 'Bootstrap', 'SCSS', 'Stripe', 'Express', 'TypeScript', 'MongoDB', 'Azure Blob', 'OpenAI API', 'Replicate AI', 'Cronjob', 'JWT'],
-        code: '',
-        role: 'Full Stack Developer',
-        demo: '',
-        image: realEstate,
-    },
-    {
-        id: 4,
-        name: 'Newsroom Management',
-        description: "My team and I developed a newspaper management dashboard application called Newsroom Management. As a front-end developer, I worked on creating the dashboard using NextJS, Material UI, Redux, Calendar, and other necessary npm libraries. We used React Redux to manage the application's state and React-hook-form and Sun Editor to handle forms.",
-        tools: ['NextJS', 'Material UI', 'Redux', 'Sun Editor', "Calendar"],
-        code: '',
-        demo: '',
-        image: ayla,
-        role: 'Full Stack Developer',
-=======
         name: 'Refokus (Awwwards)',
         description: ': Developed a clone of the Refokus website, an award-winning design from Awwwards, focusing exclusively on the frontend. Utilized modern web technologies to create an engaging and responsive user interface. The project includes high-end animations and ensures a better user experience for mobile users. By implementing responsive design principles and sophisticated visual effects, the clone successfully captures the essence of the original site while providing a seamless experience across devices.',
         tools: ['React', 'Vite', "Javascript", "TailwindCSS",],
@@ -91,7 +54,6 @@ export const projectsData = [
         demo: 'https://github.com/Krish-Verma-03/us-bro-us',
         image: ayla,
         role: 'Developer && Designer',
->>>>>>> recovery-branch
     }
 ];
 

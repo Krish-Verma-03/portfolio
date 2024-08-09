@@ -66,12 +66,7 @@ function ContactWithCaptcha() {
         setCaptcha(null);
       }
     } catch (error) {
-<<<<<<< HEAD
-      console.log("andr h catch k"
-      )
-=======
       console.log("andr h catch k")
->>>>>>> recovery-branch
       toast.error(error?.text || error);
     };
   };

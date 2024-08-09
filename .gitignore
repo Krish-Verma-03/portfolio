@@ -36,11 +36,7 @@ yarn-error.log*
 next-env.d.ts
 
 # learnings
-<<<<<<< HEAD
 learnings.txt
 
 # env
 .env
-=======
-learnings.txt
->>>>>>> recovery-branch
